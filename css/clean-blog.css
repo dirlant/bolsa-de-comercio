@@ -356,8 +356,15 @@ footer {
   font-weight: 400;
 }
 .botones img{
-  padding: 20px;
+  padding: 5%;
   width: 100%;
+}
+.premio{
+  text-align: center;
+}
+.premio a img{
+  margin: 15px auto 30px;
+  width: 67%;
 }
 .icono img{
   width: 100%;
@@ -374,5 +381,9 @@ footer {
   .contendor-footer{
     width: 75%;
     margin: 0px auto;
+  }
+  .premio a img{
+    padding: 1% 1% 5% 1%;
+    width: 100%;
   }
 }
